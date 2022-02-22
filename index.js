@@ -106,3 +106,17 @@ const DividedInto7Json = () => {
 
 ////////////////////////////////////////////////
 //9:
+
+
+const objectOne = require('./Classes/Events');
+
+// objectOne.EmitFun();
+
+//////////////////////////////////////////////////
+
+//11: לא הצלחתי
+
+const ObjectTwo = require('./Classes/EventsTwo');
+
+// ObjectTwo.EmitFunction();
+
